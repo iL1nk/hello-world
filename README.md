@@ -1,2 +1,4 @@
 # hello-world
-First one
+First one commit
+
+Here is the description of my git learning.
